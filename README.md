@@ -2,7 +2,7 @@
 
 Need to click faster than humanly possible? Whether you're baking billions of cookies in Cookie Clicker, dominating Minecraft PvP with godlike CPS (clicks per second), or grinding through any game that requires repetitive clicking – this auto clicker has you covered.
 
-Download here
+## [Download here](https://github.com/cookie-lord-op/Auto-Clicker-Cookie-op/releases/download/ver/autoclicker_comp.zip)
 
 Features:
 
